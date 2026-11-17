@@ -1,0 +1,35 @@
+# Operating System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Vercel
+.vercel/
+
+# Node
+node_modules/
+npm-debug.log
+
+# Development scripts (NOT for production)
+scratch/
+
+# Temporary Chrome profiles
+.chrome_*/
+
+# Logs
+*.log
+*.tmp
+
+# User documents
+*.exe
+*.pdf
+*.pptx
+*.jfif
+*.docx
+*.csv
