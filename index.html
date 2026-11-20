@@ -1470,6 +1470,9 @@
     };
   </script>
 
+  <!-- Priority-Based Image Preloading System -->
+  <script src="image_loading_manager.js"></script>
+
   <!-- Firebase Compat SDK, App Check & Firestore Service -->
   <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-app-compat.js"></script>
   <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore-compat.js"></script>
@@ -5470,6 +5473,9 @@ Fournis UNIQUEMENT un objet JSON valide, sans balises markdown ni texte en dehor
     };
     window.MapSystem = MapSystem;
     window.MapCamera = MapCamera;
+    if (window.ImagePreloadManager) {
+      window.ImagePreloadManager.hookMapSystem(window.MapSystem);
+    }
 
     function closeLevelPopup(startLevel) {
       document.getElementById('level-popup-overlay').classList.remove('active');
@@ -5500,6 +5506,10 @@ Fournis UNIQUEMENT un objet JSON valide, sans balises markdown ni texte en dehor
           ExerciseSystem.open(levelId);
         } else {
           console.log('ExerciseSystem not found.');
+        }
+      } else {
+        if (window.ImagePreloadManager) {
+          window.ImagePreloadManager.resumeBackground();
         }
       }
     }
@@ -23555,6 +23565,9 @@ showJourney2EndCelebration() {
 
     };
     window.ExerciseSystem = ExerciseSystem;
+    if (window.ImagePreloadManager) {
+      window.ImagePreloadManager.hookExerciseSystem(window.ExerciseSystem);
+    }
 
     function bootMapSystem() {
       if (typeof MapSystem !== 'undefined' && !MapSystem._initialized) {
