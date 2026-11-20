@@ -68,9 +68,22 @@ All core engines load without syntax errors or unhandled script crashes.
 - [x] `.gitignore` configured to exclude OS files, IDE configs, logs, and user documents.
 - [x] `.env.example` created with Firebase and App Check documentation.
 
+### F. Automated Image Optimization & High-Quality WebP Delivery (2026-11-20)
+- [x] 127 total image assets converted to high-quality WebP with preserved alpha transparency (quality: 88, alphaQuality: 95, effort: 6).
+- [x] Storage reduced from **325.32 MB** to **22.27 MB** (**303.04 MB saved, -93.2% size reduction**).
+- [x] Responsive variants generated for main map background (2560w, 1920w, 1080w).
+- [x] 100% of original PNG images preserved in their original folders as permanent fallbacks.
+- [x] Automated fallback tested in headless Chrome: broken WebP requests gracefully and instantly recover using original PNGs.
+- [x] 0 network failures, 0 console errors during interactive verification.
+
 ---
 
-## 3. Visual Artifact
+## 3. Visual Artifacts
 
-A live browser snapshot of the new platform was captured and preserved at:
-`educational-platform/docs/verify_new_project.png`
+- Welcome Screen: `docs/verify_optimized_welcome.png`
+- Interactive Map: `docs/verify_optimized_map.png`
+- Journey 1 Intro Popup: `docs/verify_optimized_j1_popup.png`
+- Journey 1 Activity 1: `docs/verify_optimized_j1_activity.png`
+- Journey 7 Crossword Activity: `docs/verify_optimized_j7.png`
+- Journey 8 Mini-Project Activity: `docs/verify_optimized_j8.png`
+- Original Baseline Snapshot: `docs/verify_new_project.png`

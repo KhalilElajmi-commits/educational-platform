@@ -247,6 +247,13 @@ Then open: http://localhost:3000
 
 14. **Firebase Compat SDK vs Modular SDK:** The project uses the Compat SDK (`firebase-app-compat.js`) for Firestore and App Check (traditional `<script>` tags). The Firebase AI Logic uses the Modular SDK (`@firebase/ai`) loaded via `esm.sh` inside a `<script type="module">` block. Do not mix these patterns.
 
+15. **High-Performance Image Optimization & Fallback System:**
+    - All 127 image assets are automatically optimized to WebP under the `optimized/` directory (reduced by 93.2% from 325 MB to 22.3 MB).
+    - All original PNG images in `journe 1`..`8`, `contiuer`, `evalution`, etc. are preserved as fallbacks.
+    - When setting image sources dynamically in JavaScript, ALWAYS use `window.setOptimizedImgSrc(element, src, optionalFallback)`.
+    - Never replace string constants in `activity.src` data objects directly with `.webp` because condition checks (e.g. `activity.src === 'journe 8/last popup.png'`) rely on the exact original path string. The helper translates the source only when assigning to the DOM image element.
+    - Full details in `docs/IMAGE_OPTIMIZATION_REPORT.md`.
+
 ---
 
 ## G. Known Issues & Quirks

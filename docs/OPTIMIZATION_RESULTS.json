@@ -1,0 +1,1279 @@
+{
+  "totalImages": 127,
+  "totalOriginalBytes": 341118443,
+  "totalOptimizedBytes": 23353054,
+  "totalSavingsBytes": 317765389,
+  "totalSavingsPct": "93.15",
+  "results": [
+    {
+      "path": "journe 6/2.png",
+      "optimizedPath": "optimized/journe 6/2.webp",
+      "originalDimensions": "5512x3072",
+      "originalBytes": 14330440,
+      "optimizedBytes": 323116,
+      "savingsBytes": 14007324,
+      "savingsPct": 97.7,
+      "hasAlpha": true
+    },
+    {
+      "path": "JOURNE 3/5.png",
+      "optimizedPath": "optimized/JOURNE 3/5.webp",
+      "originalDimensions": "4856x3520",
+      "originalBytes": 13787115,
+      "optimizedBytes": 379314,
+      "savingsBytes": 13407801,
+      "savingsPct": 97.2,
+      "hasAlpha": true
+    },
+    {
+      "path": "JOURNE 3/2.png",
+      "optimizedPath": "optimized/JOURNE 3/2.webp",
+      "originalDimensions": "3584x4800",
+      "originalBytes": 12878919,
+      "optimizedBytes": 290504,
+      "savingsBytes": 12588415,
+      "savingsPct": 97.7,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 6/4.png",
+      "optimizedPath": "optimized/journe 6/4.webp",
+      "originalDimensions": "4924x3456",
+      "originalBytes": 11017755,
+      "optimizedBytes": 327478,
+      "savingsBytes": 10690277,
+      "savingsPct": 97,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 6/3.png",
+      "optimizedPath": "optimized/journe 6/3.webp",
+      "originalDimensions": "4856x3520",
+      "originalBytes": 10074464,
+      "optimizedBytes": 270146,
+      "savingsBytes": 9804318,
+      "savingsPct": 97.3,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 6/background  journe 6_upscayl_2x_upscayl-standard-4x.png",
+      "optimizedPath": "optimized/journe 6/background  journe 6_upscayl_2x_upscayl-standard-4x.webp",
+      "originalDimensions": "3344x1880",
+      "originalBytes": 8539332,
+      "optimizedBytes": 553864,
+      "savingsBytes": 7985468,
+      "savingsPct": 93.5,
+      "hasAlpha": false
+    },
+    {
+      "path": "journe 4/background journe 4_upscayl_2x_upscayl-standard-4x.png",
+      "optimizedPath": "optimized/journe 4/background journe 4_upscayl_2x_upscayl-standard-4x.webp",
+      "originalDimensions": "2956x2128",
+      "originalBytes": 8501189,
+      "optimizedBytes": 642748,
+      "savingsBytes": 7858441,
+      "savingsPct": 92.4,
+      "hasAlpha": false
+    },
+    {
+      "path": "background_upscayl_2x_ultrasharp-4x.png",
+      "optimizedPath": "optimized/background_upscayl_2x_ultrasharp-4x.webp",
+      "originalDimensions": "3436x1832",
+      "originalBytes": 8448346,
+      "optimizedBytes": 396476,
+      "savingsBytes": 8051870,
+      "savingsPct": 95.3,
+      "hasAlpha": false
+    },
+    {
+      "path": "journe 5/6d654db3-5144-4e84-89a8-d4c21ae26d3e_upscayl_2x_upscayl-standard-4x.png",
+      "optimizedPath": "optimized/journe 5/6d654db3-5144-4e84-89a8-d4c21ae26d3e_upscayl_2x_upscayl-standard-4x.webp",
+      "originalDimensions": "3916x1606",
+      "originalBytes": 8319016,
+      "optimizedBytes": 448988,
+      "savingsBytes": 7870028,
+      "savingsPct": 94.6,
+      "hasAlpha": false
+    },
+    {
+      "path": "JOURNE 3/BACKGROUND JOURNE 3_upscayl_2x_upscayl-standard-4x.png",
+      "optimizedPath": "optimized/JOURNE 3/BACKGROUND JOURNE 3_upscayl_2x_upscayl-standard-4x.webp",
+      "originalDimensions": "3356x1874",
+      "originalBytes": 7643344,
+      "optimizedBytes": 447264,
+      "savingsBytes": 7196080,
+      "savingsPct": 94.1,
+      "hasAlpha": false
+    },
+    {
+      "path": "journe 2/background journe 2_upscayl_2x_upscayl-standard-4x.png",
+      "optimizedPath": "optimized/journe 2/background journe 2_upscayl_2x_upscayl-standard-4x.webp",
+      "originalDimensions": "2958x2128",
+      "originalBytes": 7168957,
+      "optimizedBytes": 458668,
+      "savingsBytes": 6710289,
+      "savingsPct": 93.6,
+      "hasAlpha": false
+    },
+    {
+      "path": "journe 2/5.png",
+      "optimizedPath": "optimized/journe 2/5.webp",
+      "originalDimensions": "3328x1980",
+      "originalBytes": 6480933,
+      "optimizedBytes": 356250,
+      "savingsBytes": 6124683,
+      "savingsPct": 94.5,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 8/2.png",
+      "optimizedPath": "optimized/journe 8/2.webp",
+      "originalDimensions": "2244x2174",
+      "originalBytes": 5802444,
+      "optimizedBytes": 436532,
+      "savingsBytes": 5365912,
+      "savingsPct": 92.5,
+      "hasAlpha": true
+    },
+    {
+      "path": "JOURNE 3/1.png",
+      "optimizedPath": "optimized/JOURNE 3/1.webp",
+      "originalDimensions": "2253x2084",
+      "originalBytes": 5652393,
+      "optimizedBytes": 398300,
+      "savingsBytes": 5254093,
+      "savingsPct": 93,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 2/1.png",
+      "optimizedPath": "optimized/journe 2/1.webp",
+      "originalDimensions": "2100x2016",
+      "originalBytes": 5590105,
+      "optimizedBytes": 440480,
+      "savingsBytes": 5149625,
+      "savingsPct": 92.1,
+      "hasAlpha": true
+    },
+    {
+      "path": "evalution/1.png",
+      "optimizedPath": "optimized/evalution/1.webp",
+      "originalDimensions": "2150x2172",
+      "originalBytes": 5414732,
+      "optimizedBytes": 477218,
+      "savingsBytes": 4937514,
+      "savingsPct": 91.2,
+      "hasAlpha": true
+    },
+    {
+      "path": "evalution/2.png",
+      "optimizedPath": "optimized/evalution/2.webp",
+      "originalDimensions": "2148x2257",
+      "originalBytes": 5358985,
+      "optimizedBytes": 457424,
+      "savingsBytes": 4901561,
+      "savingsPct": 91.5,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 7/2.png",
+      "optimizedPath": "optimized/journe 7/2.webp",
+      "originalDimensions": "2678x1600",
+      "originalBytes": 5286907,
+      "optimizedBytes": 316878,
+      "savingsBytes": 4970029,
+      "savingsPct": 94,
+      "hasAlpha": true
+    },
+    {
+      "path": "evalution/3.png",
+      "optimizedPath": "optimized/evalution/3.webp",
+      "originalDimensions": "2174x2172",
+      "originalBytes": 5174568,
+      "optimizedBytes": 421250,
+      "savingsBytes": 4753318,
+      "savingsPct": 91.9,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 8/1.png",
+      "optimizedPath": "optimized/journe 8/1.webp",
+      "originalDimensions": "2070x2146",
+      "originalBytes": 5160834,
+      "optimizedBytes": 432454,
+      "savingsBytes": 4728380,
+      "savingsPct": 91.6,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 2/2.png",
+      "optimizedPath": "optimized/journe 2/2.webp",
+      "originalDimensions": "2032x2096",
+      "originalBytes": 5003692,
+      "optimizedBytes": 343082,
+      "savingsBytes": 4660610,
+      "savingsPct": 93.1,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 5/2.png",
+      "optimizedPath": "optimized/journe 5/2.webp",
+      "originalDimensions": "2082x2016",
+      "originalBytes": 5001041,
+      "optimizedBytes": 279230,
+      "savingsBytes": 4721811,
+      "savingsPct": 94.4,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 7/4.png",
+      "optimizedPath": "optimized/journe 7/4.webp",
+      "originalDimensions": "2592x1660",
+      "originalBytes": 4971340,
+      "optimizedBytes": 322536,
+      "savingsBytes": 4648804,
+      "savingsPct": 93.5,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 7/3.png",
+      "optimizedPath": "optimized/journe 7/3.webp",
+      "originalDimensions": "2586x1664",
+      "originalBytes": 4951117,
+      "optimizedBytes": 309670,
+      "savingsBytes": 4641447,
+      "savingsPct": 93.7,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 2/3.png",
+      "optimizedPath": "optimized/journe 2/3.webp",
+      "originalDimensions": "2016x2112",
+      "originalBytes": 4929227,
+      "optimizedBytes": 302500,
+      "savingsBytes": 4626727,
+      "savingsPct": 93.9,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 4/1.png",
+      "optimizedPath": "optimized/journe 4/1.webp",
+      "originalDimensions": "2112x2048",
+      "originalBytes": 4746696,
+      "optimizedBytes": 282268,
+      "savingsBytes": 4464428,
+      "savingsPct": 94.1,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 4/4.png",
+      "optimizedPath": "optimized/journe 4/4.webp",
+      "originalDimensions": "2340x1824",
+      "originalBytes": 4443659,
+      "optimizedBytes": 230492,
+      "savingsBytes": 4213167,
+      "savingsPct": 94.8,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 8/3.png",
+      "optimizedPath": "optimized/journe 8/3.webp",
+      "originalDimensions": "1900x2179",
+      "originalBytes": 4225948,
+      "optimizedBytes": 285840,
+      "savingsBytes": 3940108,
+      "savingsPct": 93.2,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 4/3.png",
+      "optimizedPath": "optimized/journe 4/3.webp",
+      "originalDimensions": "1948x1952",
+      "originalBytes": 3998814,
+      "optimizedBytes": 247732,
+      "savingsBytes": 3751082,
+      "savingsPct": 93.8,
+      "hasAlpha": true
+    },
+    {
+      "path": "JOURNE 3/3.png",
+      "optimizedPath": "optimized/JOURNE 3/3.webp",
+      "originalDimensions": "1773x2102",
+      "originalBytes": 3991013,
+      "optimizedBytes": 228586,
+      "savingsBytes": 3762427,
+      "savingsPct": 94.3,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 1/2.png",
+      "optimizedPath": "optimized/journe 1/2.webp",
+      "originalDimensions": "2048x2048",
+      "originalBytes": 3776995,
+      "optimizedBytes": 227848,
+      "savingsBytes": 3549147,
+      "savingsPct": 94,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 1/1.png",
+      "optimizedPath": "optimized/journe 1/1.webp",
+      "originalDimensions": "2048x2048",
+      "originalBytes": 3769776,
+      "optimizedBytes": 229582,
+      "savingsBytes": 3540194,
+      "savingsPct": 93.9,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 1/5.png",
+      "optimizedPath": "optimized/journe 1/5.webp",
+      "originalDimensions": "2048x2048",
+      "originalBytes": 3746944,
+      "optimizedBytes": 234130,
+      "savingsBytes": 3512814,
+      "savingsPct": 93.8,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 1/4.png",
+      "optimizedPath": "optimized/journe 1/4.webp",
+      "originalDimensions": "2048x2048",
+      "originalBytes": 3743052,
+      "optimizedBytes": 202188,
+      "savingsBytes": 3540864,
+      "savingsPct": 94.6,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 1/6.png",
+      "optimizedPath": "optimized/journe 1/6.webp",
+      "originalDimensions": "2048x2048",
+      "originalBytes": 3609450,
+      "optimizedBytes": 254986,
+      "savingsBytes": 3354464,
+      "savingsPct": 92.9,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 1/3.png",
+      "optimizedPath": "optimized/journe 1/3.webp",
+      "originalDimensions": "2048x2048",
+      "originalBytes": 3285400,
+      "optimizedBytes": 175234,
+      "savingsBytes": 3110166,
+      "savingsPct": 94.7,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 6/1.png",
+      "optimizedPath": "optimized/journe 6/1.webp",
+      "originalDimensions": "2031x1410",
+      "originalBytes": 3223097,
+      "optimizedBytes": 291300,
+      "savingsBytes": 2931797,
+      "savingsPct": 91,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 8/last popup.png",
+      "optimizedPath": "optimized/journe 8/last popup.webp",
+      "originalDimensions": "2624x1632",
+      "originalBytes": 3204552,
+      "optimizedBytes": 186992,
+      "savingsBytes": 3017560,
+      "savingsPct": 94.2,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 6/end pop up.png",
+      "optimizedPath": "optimized/journe 6/end pop up.webp",
+      "originalDimensions": "2624x1632",
+      "originalBytes": 3036196,
+      "optimizedBytes": 204412,
+      "savingsBytes": 2831784,
+      "savingsPct": 93.3,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 6/end popup.png",
+      "optimizedPath": "optimized/journe 6/end popup.webp",
+      "originalDimensions": "2624x1632",
+      "originalBytes": 3036196,
+      "optimizedBytes": 204412,
+      "savingsBytes": 2831784,
+      "savingsPct": 93.3,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 6/popup end.png",
+      "optimizedPath": "optimized/journe 6/popup end.webp",
+      "originalDimensions": "2624x1632",
+      "originalBytes": 3036196,
+      "optimizedBytes": 204412,
+      "savingsBytes": 2831784,
+      "savingsPct": 93.3,
+      "hasAlpha": true
+    },
+    {
+      "path": "contiuer/excellent.png",
+      "optimizedPath": "optimized/contiuer/excellent.webp",
+      "originalDimensions": "2304x1047",
+      "originalBytes": 3032002,
+      "optimizedBytes": 243426,
+      "savingsBytes": 2788576,
+      "savingsPct": 92,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 5/end pop up.png",
+      "optimizedPath": "optimized/journe 5/end pop up.webp",
+      "originalDimensions": "2528x1684",
+      "originalBytes": 2977907,
+      "optimizedBytes": 175226,
+      "savingsBytes": 2802681,
+      "savingsPct": 94.1,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 5/end popup.png",
+      "optimizedPath": "optimized/journe 5/end popup.webp",
+      "originalDimensions": "2528x1684",
+      "originalBytes": 2977907,
+      "optimizedBytes": 175226,
+      "savingsBytes": 2802681,
+      "savingsPct": 94.1,
+      "hasAlpha": true
+    },
+    {
+      "path": "contiuer/parfait.png",
+      "optimizedPath": "optimized/contiuer/parfait.webp",
+      "originalDimensions": "2304x1005",
+      "originalBytes": 2918917,
+      "optimizedBytes": 221568,
+      "savingsBytes": 2697349,
+      "savingsPct": 92.4,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 1/skip botten.png",
+      "optimizedPath": "optimized/journe 1/skip botten.webp",
+      "originalDimensions": "2400x1792",
+      "originalBytes": 2899098,
+      "optimizedBytes": 142388,
+      "savingsBytes": 2756710,
+      "savingsPct": 95.1,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 2/end journe 2.png",
+      "optimizedPath": "optimized/journe 2/end journe 2.webp",
+      "originalDimensions": "2528x1686",
+      "originalBytes": 2854971,
+      "optimizedBytes": 184526,
+      "savingsBytes": 2670445,
+      "savingsPct": 93.5,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 1/home botten.png",
+      "optimizedPath": "optimized/journe 1/home botten.webp",
+      "originalDimensions": "2400x1792",
+      "originalBytes": 2841799,
+      "optimizedBytes": 129182,
+      "savingsBytes": 2712617,
+      "savingsPct": 95.5,
+      "hasAlpha": true
+    },
+    {
+      "path": "contiuer/bien joue.png",
+      "optimizedPath": "optimized/contiuer/bien joue.webp",
+      "originalDimensions": "2304x1017",
+      "originalBytes": 2826522,
+      "optimizedBytes": 215642,
+      "savingsBytes": 2610880,
+      "savingsPct": 92.4,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 4/end pop up.png",
+      "optimizedPath": "optimized/journe 4/end pop up.webp",
+      "originalDimensions": "2528x1684",
+      "originalBytes": 2814463,
+      "optimizedBytes": 178462,
+      "savingsBytes": 2636001,
+      "savingsPct": 93.7,
+      "hasAlpha": true
+    },
+    {
+      "path": "JOURNE 3/end journe 3.png",
+      "optimizedPath": "optimized/JOURNE 3/end journe 3.webp",
+      "originalDimensions": "2528x1684",
+      "originalBytes": 2810453,
+      "optimizedBytes": 179806,
+      "savingsBytes": 2630647,
+      "savingsPct": 93.6,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 1/back botten.png",
+      "optimizedPath": "optimized/journe 1/back botten.webp",
+      "originalDimensions": "2400x1792",
+      "originalBytes": 2783780,
+      "optimizedBytes": 121054,
+      "savingsBytes": 2662726,
+      "savingsPct": 95.7,
+      "hasAlpha": true
+    },
+    {
+      "path": "contiuer/super.png",
+      "optimizedPath": "optimized/contiuer/super.webp",
+      "originalDimensions": "2304x1065",
+      "originalBytes": 2722985,
+      "optimizedBytes": 201784,
+      "savingsBytes": 2521201,
+      "savingsPct": 92.6,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 8/BACKGROUND.png",
+      "optimizedPath": "optimized/journe 8/BACKGROUND.webp",
+      "originalDimensions": "1536x1024",
+      "originalBytes": 2710484,
+      "optimizedBytes": 332032,
+      "savingsBytes": 2378452,
+      "savingsPct": 87.8,
+      "hasAlpha": false
+    },
+    {
+      "path": "journe 7/background.png",
+      "optimizedPath": "optimized/journe 7/background.webp",
+      "originalDimensions": "1672x941",
+      "originalBytes": 2639680,
+      "optimizedBytes": 341870,
+      "savingsBytes": 2297810,
+      "savingsPct": 87,
+      "hasAlpha": false
+    },
+    {
+      "path": "evalution/back ground.png",
+      "optimizedPath": "optimized/evalution/back ground.webp",
+      "originalDimensions": "1478x1064",
+      "originalBytes": 2235940,
+      "optimizedBytes": 242990,
+      "savingsBytes": 1992950,
+      "savingsPct": 89.1,
+      "hasAlpha": false
+    },
+    {
+      "path": "journe 7/1.png",
+      "optimizedPath": "optimized/journe 7/1.webp",
+      "originalDimensions": "1565x1005",
+      "originalBytes": 2234431,
+      "optimizedBytes": 236338,
+      "savingsBytes": 1998093,
+      "savingsPct": 89.4,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 6/5.png",
+      "optimizedPath": "optimized/journe 6/5.webp",
+      "originalDimensions": "1536x1024",
+      "originalBytes": 2212912,
+      "optimizedBytes": 234206,
+      "savingsBytes": 1978706,
+      "savingsPct": 89.4,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 8/FIRST POPUP.png",
+      "optimizedPath": "optimized/journe 8/FIRST POPUP.webp",
+      "originalDimensions": "1535x1024",
+      "originalBytes": 2171774,
+      "optimizedBytes": 277802,
+      "savingsBytes": 1893972,
+      "savingsPct": 87.2,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 1/backbround of journe 1.png",
+      "optimizedPath": "optimized/journe 1/backbround of journe 1.webp",
+      "originalDimensions": "1678x937",
+      "originalBytes": 2128890,
+      "optimizedBytes": 196704,
+      "savingsBytes": 1932186,
+      "savingsPct": 90.8,
+      "hasAlpha": false
+    },
+    {
+      "path": "journe 2/4.png",
+      "optimizedPath": "optimized/journe 2/4.webp",
+      "originalDimensions": "1679x937",
+      "originalBytes": 2124585,
+      "optimizedBytes": 217692,
+      "savingsBytes": 1906893,
+      "savingsPct": 89.8,
+      "hasAlpha": true
+    },
+    {
+      "path": "evalution/pop up evalution.png",
+      "optimizedPath": "optimized/evalution/pop up evalution.webp",
+      "originalDimensions": "1536x1024",
+      "originalBytes": 2061075,
+      "optimizedBytes": 260818,
+      "savingsBytes": 1800257,
+      "savingsPct": 87.3,
+      "hasAlpha": true
+    },
+    {
+      "path": "evalution/id.png",
+      "optimizedPath": "optimized/evalution/id.webp",
+      "originalDimensions": "1254x1254",
+      "originalBytes": 2018558,
+      "optimizedBytes": 195400,
+      "savingsBytes": 1823158,
+      "savingsPct": 90.3,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 8/4.png",
+      "optimizedPath": "optimized/journe 8/4.webp",
+      "originalDimensions": "1675x939",
+      "originalBytes": 2005150,
+      "optimizedBytes": 201446,
+      "savingsBytes": 1803704,
+      "savingsPct": 90,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 7/first pop up.png",
+      "optimizedPath": "optimized/journe 7/first pop up.webp",
+      "originalDimensions": "1535x1024",
+      "originalBytes": 2003857,
+      "optimizedBytes": 245964,
+      "savingsBytes": 1757893,
+      "savingsPct": 87.7,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 6/6.png",
+      "optimizedPath": "optimized/journe 6/6.webp",
+      "originalDimensions": "1565x1005",
+      "originalBytes": 1994908,
+      "optimizedBytes": 192554,
+      "savingsBytes": 1802354,
+      "savingsPct": 90.3,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 4/5.png",
+      "optimizedPath": "optimized/journe 4/5.webp",
+      "originalDimensions": "1611x976",
+      "originalBytes": 1939989,
+      "optimizedBytes": 198116,
+      "savingsBytes": 1741873,
+      "savingsPct": 89.8,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 6/first popup.png",
+      "optimizedPath": "optimized/journe 6/first popup.webp",
+      "originalDimensions": "1535x1024",
+      "originalBytes": 1917988,
+      "optimizedBytes": 236626,
+      "savingsBytes": 1681362,
+      "savingsPct": 87.7,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 6/7.png",
+      "optimizedPath": "optimized/journe 6/7.webp",
+      "originalDimensions": "1624x969",
+      "originalBytes": 1909007,
+      "optimizedBytes": 185980,
+      "savingsBytes": 1723027,
+      "savingsPct": 90.3,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 5/first popup.png",
+      "optimizedPath": "optimized/journe 5/first popup.webp",
+      "originalDimensions": "1536x1024",
+      "originalBytes": 1864654,
+      "optimizedBytes": 239542,
+      "savingsBytes": 1625112,
+      "savingsPct": 87.2,
+      "hasAlpha": true
+    },
+    {
+      "path": "evalution/tet dachbored.png",
+      "optimizedPath": "optimized/evalution/tet dachbored.webp",
+      "originalDimensions": "1670x941",
+      "originalBytes": 1840907,
+      "optimizedBytes": 183488,
+      "savingsBytes": 1657419,
+      "savingsPct": 90,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 4/popup of journe 4.png",
+      "optimizedPath": "optimized/journe 4/popup of journe 4.webp",
+      "originalDimensions": "1536x1024",
+      "originalBytes": 1741501,
+      "optimizedBytes": 227128,
+      "savingsBytes": 1514373,
+      "savingsPct": 87,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 2/pop for journe 2.png",
+      "optimizedPath": "optimized/journe 2/pop for journe 2.webp",
+      "originalDimensions": "1536x1024",
+      "originalBytes": 1715905,
+      "optimizedBytes": 200060,
+      "savingsBytes": 1515845,
+      "savingsPct": 88.3,
+      "hasAlpha": true
+    },
+    {
+      "path": "JOURNE 3/pop for jouene 3.png",
+      "optimizedPath": "optimized/JOURNE 3/pop for jouene 3.webp",
+      "originalDimensions": "1536x1024",
+      "originalBytes": 1613293,
+      "optimizedBytes": 193464,
+      "savingsBytes": 1419829,
+      "savingsPct": 88,
+      "hasAlpha": true
+    },
+    {
+      "path": "evalution/pop up end.png",
+      "optimizedPath": "optimized/evalution/pop up end.webp",
+      "originalDimensions": "1536x1024",
+      "originalBytes": 1521727,
+      "optimizedBytes": 201216,
+      "savingsBytes": 1320511,
+      "savingsPct": 86.8,
+      "hasAlpha": true
+    },
+    {
+      "path": "evalution/espace.png",
+      "optimizedPath": "optimized/evalution/espace.webp",
+      "originalDimensions": "1672x941",
+      "originalBytes": 1321073,
+      "optimizedBytes": 240506,
+      "savingsBytes": 1080567,
+      "savingsPct": 81.8,
+      "hasAlpha": true
+    },
+    {
+      "path": "exercice pop up.png",
+      "optimizedPath": "optimized/exercice pop up.webp",
+      "originalDimensions": "1536x1024",
+      "originalBytes": 1288782,
+      "optimizedBytes": 169422,
+      "savingsBytes": 1119360,
+      "savingsPct": 86.9,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 1/first pop up",
+      "optimizedPath": "optimized/journe 1/first pop up.webp",
+      "originalDimensions": "1536x1024",
+      "originalBytes": 1250586,
+      "optimizedBytes": 261288,
+      "savingsBytes": 989298,
+      "savingsPct": 79.1,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 1/first pop up.png",
+      "optimizedPath": "optimized/journe 1/first pop up.webp",
+      "originalDimensions": "1536x1024",
+      "originalBytes": 1250586,
+      "optimizedBytes": 261288,
+      "savingsBytes": 989298,
+      "savingsPct": 79.1,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 1/first pop up.webp",
+      "optimizedPath": "optimized/journe 1/first pop up.webp",
+      "originalDimensions": "1536x1024",
+      "originalBytes": 1250586,
+      "optimizedBytes": 261288,
+      "savingsBytes": 989298,
+      "savingsPct": 79.1,
+      "hasAlpha": true
+    },
+    {
+      "path": "logofr.png",
+      "optimizedPath": "optimized/logofr.webp",
+      "originalDimensions": "1714x608",
+      "originalBytes": 1005828,
+      "optimizedBytes": 84158,
+      "savingsBytes": 921670,
+      "savingsPct": 91.6,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 8/5.png",
+      "optimizedPath": "optimized/journe 8/5.webp",
+      "originalDimensions": "1024x540",
+      "originalBytes": 948349,
+      "optimizedBytes": 94946,
+      "savingsBytes": 853403,
+      "savingsPct": 90,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 4/2.png",
+      "optimizedPath": "optimized/journe 4/2.webp",
+      "originalDimensions": "1024x865",
+      "originalBytes": 937733,
+      "optimizedBytes": 92014,
+      "savingsBytes": 845719,
+      "savingsPct": 90.2,
+      "hasAlpha": true
+    },
+    {
+      "path": "JOURNE 3/4.png",
+      "optimizedPath": "optimized/JOURNE 3/4.webp",
+      "originalDimensions": "1024x765",
+      "originalBytes": 903043,
+      "optimizedBytes": 90240,
+      "savingsBytes": 812803,
+      "savingsPct": 90,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 1/end journe 1.png",
+      "optimizedPath": "optimized/journe 1/end journe 1.webp",
+      "originalDimensions": "1024x683",
+      "originalBytes": 583379,
+      "optimizedBytes": 72146,
+      "savingsBytes": 511233,
+      "savingsPct": 87.6,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 5/4.png",
+      "optimizedPath": "optimized/journe 5/4.webp",
+      "originalDimensions": "735x485",
+      "originalBytes": 566650,
+      "optimizedBytes": 82160,
+      "savingsBytes": 484490,
+      "savingsPct": 85.5,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 7/end pop up.png",
+      "optimizedPath": "optimized/journe 7/end pop up.webp",
+      "originalDimensions": "1024x637",
+      "originalBytes": 557528,
+      "optimizedBytes": 60124,
+      "savingsBytes": 497404,
+      "savingsPct": 89.2,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 5/5.png",
+      "optimizedPath": "optimized/journe 5/5.webp",
+      "originalDimensions": "800x474",
+      "originalBytes": 508404,
+      "optimizedBytes": 70062,
+      "savingsBytes": 438342,
+      "savingsPct": 86.2,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 5/1.png",
+      "optimizedPath": "optimized/journe 5/1.webp",
+      "originalDimensions": "514x512",
+      "originalBytes": 446930,
+      "optimizedBytes": 70308,
+      "savingsBytes": 376622,
+      "savingsPct": 84.3,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 1/valider.png",
+      "optimizedPath": "optimized/journe 1/valider.webp",
+      "originalDimensions": "918x417",
+      "originalBytes": 370456,
+      "optimizedBytes": 45556,
+      "savingsBytes": 324900,
+      "savingsPct": 87.7,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 1/continuer.png",
+      "optimizedPath": "optimized/journe 1/continuer.webp",
+      "originalDimensions": "901x385",
+      "originalBytes": 362419,
+      "optimizedBytes": 47012,
+      "savingsBytes": 315407,
+      "savingsPct": 87,
+      "hasAlpha": true
+    },
+    {
+      "path": "journe 5/3.png",
+      "optimizedPath": "optimized/journe 5/3.webp",
+      "originalDimensions": "496x527",
+      "originalBytes": 352478,
+      "optimizedBytes": 47676,
+      "savingsBytes": 304802,
+      "savingsPct": 86.5,
+      "hasAlpha": true
+    },
+    {
+      "path": "fanke buttom enter 2.png",
+      "optimizedPath": "optimized/fanke buttom enter 2.webp",
+      "originalDimensions": "408x542",
+      "originalBytes": 311614,
+      "optimizedBytes": 55204,
+      "savingsBytes": 256410,
+      "savingsPct": 82.3,
+      "hasAlpha": true
+    },
+    {
+      "path": "fnake top right.png",
+      "optimizedPath": "optimized/fnake top right.webp",
+      "originalDimensions": "509x426",
+      "originalBytes": 256978,
+      "optimizedBytes": 45882,
+      "savingsBytes": 211096,
+      "savingsPct": 82.1,
+      "hasAlpha": true
+    },
+    {
+      "path": "fanke buttom right.png",
+      "optimizedPath": "optimized/fanke buttom right.webp",
+      "originalDimensions": "521x402",
+      "originalBytes": 229382,
+      "optimizedBytes": 42014,
+      "savingsBytes": 187368,
+      "savingsPct": 81.7,
+      "hasAlpha": true
+    },
+    {
+      "path": "clean_clouds/cloud_c_21_x0_y381.png",
+      "optimizedPath": "optimized/clean_clouds/cloud_c_21_x0_y381.webp",
+      "originalDimensions": "486x462",
+      "originalBytes": 223191,
+      "optimizedBytes": 17922,
+      "savingsBytes": 205269,
+      "savingsPct": 92,
+      "hasAlpha": true
+    },
+    {
+      "path": "cloud_pure_bl.png",
+      "optimizedPath": "optimized/cloud_pure_bl.webp",
+      "originalDimensions": "486x462",
+      "originalBytes": 223191,
+      "optimizedBytes": 17922,
+      "savingsBytes": 205269,
+      "savingsPct": 92,
+      "hasAlpha": true
+    },
+    {
+      "path": "fnake buttom left.png",
+      "optimizedPath": "optimized/fnake buttom left.webp",
+      "originalDimensions": "515x512",
+      "originalBytes": 212304,
+      "optimizedBytes": 38502,
+      "savingsBytes": 173802,
+      "savingsPct": 81.9,
+      "hasAlpha": true
+    },
+    {
+      "path": "buttom center.png",
+      "optimizedPath": "optimized/buttom center.webp",
+      "originalDimensions": "487x510",
+      "originalBytes": 210157,
+      "optimizedBytes": 37794,
+      "savingsBytes": 172363,
+      "savingsPct": 82,
+      "hasAlpha": true
+    },
+    {
+      "path": "clean_clouds/cloud_c_2_x463_y0.png",
+      "optimizedPath": "optimized/clean_clouds/cloud_c_2_x463_y0.webp",
+      "originalDimensions": "801x255",
+      "originalBytes": 158256,
+      "optimizedBytes": 14210,
+      "savingsBytes": 144046,
+      "savingsPct": 91,
+      "hasAlpha": true
+    },
+    {
+      "path": "cloud_pure_tr.png",
+      "optimizedPath": "optimized/cloud_pure_tr.webp",
+      "originalDimensions": "801x255",
+      "originalBytes": 158256,
+      "optimizedBytes": 14210,
+      "savingsBytes": 144046,
+      "savingsPct": 91,
+      "hasAlpha": true
+    },
+    {
+      "path": "clean_clouds/cloud_top_fluffy.png",
+      "optimizedPath": "optimized/clean_clouds/cloud_top_fluffy.webp",
+      "originalDimensions": "608x235",
+      "originalBytes": 156847,
+      "optimizedBytes": 12380,
+      "savingsBytes": 144467,
+      "savingsPct": 92.1,
+      "hasAlpha": true
+    },
+    {
+      "path": "clean_clouds/cloud_c_32_x360_y608.png",
+      "optimizedPath": "optimized/clean_clouds/cloud_c_32_x360_y608.webp",
+      "originalDimensions": "608x235",
+      "originalBytes": 156423,
+      "optimizedBytes": 12528,
+      "savingsBytes": 143895,
+      "savingsPct": 92,
+      "hasAlpha": true
+    },
+    {
+      "path": "clean_clouds/cloud_c_1_x0_y0.png",
+      "optimizedPath": "optimized/clean_clouds/cloud_c_1_x0_y0.webp",
+      "originalDimensions": "504x258",
+      "originalBytes": 115581,
+      "optimizedBytes": 10470,
+      "savingsBytes": 105111,
+      "savingsPct": 90.9,
+      "hasAlpha": true
+    },
+    {
+      "path": "cloud_pure_tl.png",
+      "optimizedPath": "optimized/cloud_pure_tl.webp",
+      "originalDimensions": "504x258",
+      "originalBytes": 115581,
+      "optimizedBytes": 10470,
+      "savingsBytes": 105111,
+      "savingsPct": 90.9,
+      "hasAlpha": true
+    },
+    {
+      "path": "clean_clouds/cloud_c_28_x972_y460.png",
+      "optimizedPath": "optimized/clean_clouds/cloud_c_28_x972_y460.webp",
+      "originalDimensions": "292x383",
+      "originalBytes": 114099,
+      "optimizedBytes": 9572,
+      "savingsBytes": 104527,
+      "savingsPct": 91.6,
+      "hasAlpha": true
+    },
+    {
+      "path": "cloud_pure_br.png",
+      "optimizedPath": "optimized/cloud_pure_br.webp",
+      "originalDimensions": "292x383",
+      "originalBytes": 114099,
+      "optimizedBytes": 9572,
+      "savingsBytes": 104527,
+      "savingsPct": 91.6,
+      "hasAlpha": true
+    },
+    {
+      "path": "map_assets_full/Layer_1.png",
+      "optimizedPath": "optimized/map_assets_full/Layer_1.webp",
+      "originalDimensions": "3436x1832",
+      "originalBytes": 76006,
+      "optimizedBytes": 16510,
+      "savingsBytes": 59496,
+      "savingsPct": 78.3,
+      "hasAlpha": true
+    },
+    {
+      "path": "map_assets_full/Layer_5.png",
+      "optimizedPath": "optimized/map_assets_full/Layer_5.webp",
+      "originalDimensions": "3436x1832",
+      "originalBytes": 70703,
+      "optimizedBytes": 15330,
+      "savingsBytes": 55373,
+      "savingsPct": 78.3,
+      "hasAlpha": true
+    },
+    {
+      "path": "map_assets_full/Layer_9.png",
+      "optimizedPath": "optimized/map_assets_full/Layer_9.webp",
+      "originalDimensions": "3436x1832",
+      "originalBytes": 69529,
+      "optimizedBytes": 15938,
+      "savingsBytes": 53591,
+      "savingsPct": 77.1,
+      "hasAlpha": true
+    },
+    {
+      "path": "map_assets_full/Layer_11.png",
+      "optimizedPath": "optimized/map_assets_full/Layer_11.webp",
+      "originalDimensions": "3436x1832",
+      "originalBytes": 65786,
+      "optimizedBytes": 16562,
+      "savingsBytes": 49224,
+      "savingsPct": 74.8,
+      "hasAlpha": true
+    },
+    {
+      "path": "map_assets_full/Layer_7.png",
+      "optimizedPath": "optimized/map_assets_full/Layer_7.webp",
+      "originalDimensions": "3436x1832",
+      "originalBytes": 62881,
+      "optimizedBytes": 14486,
+      "savingsBytes": 48395,
+      "savingsPct": 77,
+      "hasAlpha": true
+    },
+    {
+      "path": "map_assets_full/Layer_4.png",
+      "optimizedPath": "optimized/map_assets_full/Layer_4.webp",
+      "originalDimensions": "3436x1832",
+      "originalBytes": 61150,
+      "optimizedBytes": 15334,
+      "savingsBytes": 45816,
+      "savingsPct": 74.9,
+      "hasAlpha": true
+    },
+    {
+      "path": "map_assets_full/Layer_3.png",
+      "optimizedPath": "optimized/map_assets_full/Layer_3.webp",
+      "originalDimensions": "3436x1832",
+      "originalBytes": 61043,
+      "optimizedBytes": 15298,
+      "savingsBytes": 45745,
+      "savingsPct": 74.9,
+      "hasAlpha": true
+    },
+    {
+      "path": "evalution/botten tet.png",
+      "optimizedPath": "optimized/evalution/botten tet.webp",
+      "originalDimensions": "263x284",
+      "originalBytes": 59306,
+      "optimizedBytes": 11718,
+      "savingsBytes": 47588,
+      "savingsPct": 80.2,
+      "hasAlpha": true
+    },
+    {
+      "path": "clean_clouds/cloud_c_15_x354_y229.png",
+      "optimizedPath": "optimized/clean_clouds/cloud_c_15_x354_y229.webp",
+      "originalDimensions": "412x148",
+      "originalBytes": 58374,
+      "optimizedBytes": 5918,
+      "savingsBytes": 52456,
+      "savingsPct": 89.9,
+      "hasAlpha": true
+    },
+    {
+      "path": "map_assets_full/Layer_13.png",
+      "optimizedPath": "optimized/map_assets_full/Layer_13.webp",
+      "originalDimensions": "3436x1832",
+      "originalBytes": 56661,
+      "optimizedBytes": 14138,
+      "savingsBytes": 42523,
+      "savingsPct": 75,
+      "hasAlpha": true
+    },
+    {
+      "path": "map_assets_full/Layer_8.png",
+      "optimizedPath": "optimized/map_assets_full/Layer_8.webp",
+      "originalDimensions": "3436x1832",
+      "originalBytes": 54308,
+      "optimizedBytes": 13234,
+      "savingsBytes": 41074,
+      "savingsPct": 75.6,
+      "hasAlpha": true
+    },
+    {
+      "path": "map_assets_full/Layer_2.png",
+      "optimizedPath": "optimized/map_assets_full/Layer_2.webp",
+      "originalDimensions": "3436x1832",
+      "originalBytes": 53935,
+      "optimizedBytes": 13750,
+      "savingsBytes": 40185,
+      "savingsPct": 74.5,
+      "hasAlpha": true
+    },
+    {
+      "path": "map_assets_full/Layer_6.png",
+      "optimizedPath": "optimized/map_assets_full/Layer_6.webp",
+      "originalDimensions": "3436x1832",
+      "originalBytes": 52648,
+      "optimizedBytes": 13070,
+      "savingsBytes": 39578,
+      "savingsPct": 75.2,
+      "hasAlpha": true
+    },
+    {
+      "path": "clean_clouds/cloud_c_22_x672_y386.png",
+      "optimizedPath": "optimized/clean_clouds/cloud_c_22_x672_y386.webp",
+      "originalDimensions": "367x178",
+      "originalBytes": 50610,
+      "optimizedBytes": 5600,
+      "savingsBytes": 45010,
+      "savingsPct": 88.9,
+      "hasAlpha": true
+    },
+    {
+      "path": "map_assets_full/Layer_12.png",
+      "optimizedPath": "optimized/map_assets_full/Layer_12.webp",
+      "originalDimensions": "3436x1832",
+      "originalBytes": 43090,
+      "optimizedBytes": 11752,
+      "savingsBytes": 31338,
+      "savingsPct": 72.7,
+      "hasAlpha": true
+    },
+    {
+      "path": "clean_clouds/cloud_c_19_x945_y287.png",
+      "optimizedPath": "optimized/clean_clouds/cloud_c_19_x945_y287.webp",
+      "originalDimensions": "298x139",
+      "originalBytes": 40791,
+      "optimizedBytes": 4442,
+      "savingsBytes": 36349,
+      "savingsPct": 89.1,
+      "hasAlpha": true
+    },
+    {
+      "path": "map_assets_full/Layer_10.png",
+      "optimizedPath": "optimized/map_assets_full/Layer_10.webp",
+      "originalDimensions": "3436x1832",
+      "originalBytes": 35116,
+      "optimizedBytes": 10356,
+      "savingsBytes": 24760,
+      "savingsPct": 70.5,
+      "hasAlpha": true
+    },
+    {
+      "path": "clean_clouds/cloud_c_16_x42_y243.png",
+      "optimizedPath": "optimized/clean_clouds/cloud_c_16_x42_y243.webp",
+      "originalDimensions": "265x171",
+      "originalBytes": 32032,
+      "optimizedBytes": 4282,
+      "savingsBytes": 27750,
+      "savingsPct": 86.6,
+      "hasAlpha": true
+    },
+    {
+      "path": "clean_clouds/cloud_c_18_x790_y262.png",
+      "optimizedPath": "optimized/clean_clouds/cloud_c_18_x790_y262.webp",
+      "originalDimensions": "244x78",
+      "originalBytes": 12529,
+      "optimizedBytes": 1944,
+      "savingsBytes": 10585,
+      "savingsPct": 84.5,
+      "hasAlpha": true
+    },
+    {
+      "path": "clean_clouds/cloud_c_27_x449_y436.png",
+      "optimizedPath": "optimized/clean_clouds/cloud_c_27_x449_y436.webp",
+      "originalDimensions": "185x76",
+      "originalBytes": 11978,
+      "optimizedBytes": 2036,
+      "savingsBytes": 9942,
+      "savingsPct": 83,
+      "hasAlpha": true
+    }
+  ]
+}

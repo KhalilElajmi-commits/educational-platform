@@ -1,0 +1,2184 @@
+{
+  "generatedAt": "2026-11-20T09:22:53.562Z",
+  "totalImages": 127,
+  "totalSizeBytes": 341118443,
+  "totalSizeMB": "325.32",
+  "images": [
+    {
+      "path": "journe 6/2.png",
+      "sizeBytes": 14330440,
+      "sizeMB": "13.667",
+      "format": "png",
+      "width": 5512,
+      "height": 3072,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "JOURNE 3/5.png",
+      "sizeBytes": 13787115,
+      "sizeMB": "13.148",
+      "format": "png",
+      "width": 4856,
+      "height": 3520,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "JOURNE 3/2.png",
+      "sizeBytes": 12878919,
+      "sizeMB": "12.282",
+      "format": "png",
+      "width": 3584,
+      "height": 4800,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 6/4.png",
+      "sizeBytes": 11017755,
+      "sizeMB": "10.507",
+      "format": "png",
+      "width": 4924,
+      "height": 3456,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 6/3.png",
+      "sizeBytes": 10074464,
+      "sizeMB": "9.608",
+      "format": "png",
+      "width": 4856,
+      "height": 3520,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 6/background  journe 6_upscayl_2x_upscayl-standard-4x.png",
+      "sizeBytes": 8539332,
+      "sizeMB": "8.144",
+      "format": "png",
+      "width": 3344,
+      "height": 1880,
+      "hasAlpha": false,
+      "channels": 3,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 4/background journe 4_upscayl_2x_upscayl-standard-4x.png",
+      "sizeBytes": 8501189,
+      "sizeMB": "8.107",
+      "format": "png",
+      "width": 2956,
+      "height": 2128,
+      "hasAlpha": false,
+      "channels": 3,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "background_upscayl_2x_ultrasharp-4x.png",
+      "sizeBytes": 8448346,
+      "sizeMB": "8.057",
+      "format": "png",
+      "width": 3436,
+      "height": 1832,
+      "hasAlpha": false,
+      "channels": 3,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 5/6d654db3-5144-4e84-89a8-d4c21ae26d3e_upscayl_2x_upscayl-standard-4x.png",
+      "sizeBytes": 8319016,
+      "sizeMB": "7.934",
+      "format": "png",
+      "width": 3916,
+      "height": 1606,
+      "hasAlpha": false,
+      "channels": 3,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "JOURNE 3/BACKGROUND JOURNE 3_upscayl_2x_upscayl-standard-4x.png",
+      "sizeBytes": 7643344,
+      "sizeMB": "7.289",
+      "format": "png",
+      "width": 3356,
+      "height": 1874,
+      "hasAlpha": false,
+      "channels": 3,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 2/background journe 2_upscayl_2x_upscayl-standard-4x.png",
+      "sizeBytes": 7168957,
+      "sizeMB": "6.837",
+      "format": "png",
+      "width": 2958,
+      "height": 2128,
+      "hasAlpha": false,
+      "channels": 3,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 2/5.png",
+      "sizeBytes": 6480933,
+      "sizeMB": "6.181",
+      "format": "png",
+      "width": 3328,
+      "height": 1980,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 8/2.png",
+      "sizeBytes": 5802444,
+      "sizeMB": "5.534",
+      "format": "png",
+      "width": 2244,
+      "height": 2174,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "JOURNE 3/1.png",
+      "sizeBytes": 5652393,
+      "sizeMB": "5.391",
+      "format": "png",
+      "width": 2253,
+      "height": 2084,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 2/1.png",
+      "sizeBytes": 5590105,
+      "sizeMB": "5.331",
+      "format": "png",
+      "width": 2100,
+      "height": 2016,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "evalution/1.png",
+      "sizeBytes": 5414732,
+      "sizeMB": "5.164",
+      "format": "png",
+      "width": 2150,
+      "height": 2172,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "evalution/2.png",
+      "sizeBytes": 5358985,
+      "sizeMB": "5.111",
+      "format": "png",
+      "width": 2148,
+      "height": 2257,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 7/2.png",
+      "sizeBytes": 5286907,
+      "sizeMB": "5.042",
+      "format": "png",
+      "width": 2678,
+      "height": 1600,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "basename"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "evalution/3.png",
+      "sizeBytes": 5174568,
+      "sizeMB": "4.935",
+      "format": "png",
+      "width": 2174,
+      "height": 2172,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 8/1.png",
+      "sizeBytes": 5160834,
+      "sizeMB": "4.922",
+      "format": "png",
+      "width": 2070,
+      "height": 2146,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 2/2.png",
+      "sizeBytes": 5003692,
+      "sizeMB": "4.772",
+      "format": "png",
+      "width": 2032,
+      "height": 2096,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 5/2.png",
+      "sizeBytes": 5001041,
+      "sizeMB": "4.769",
+      "format": "png",
+      "width": 2082,
+      "height": 2016,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 7/4.png",
+      "sizeBytes": 4971340,
+      "sizeMB": "4.741",
+      "format": "png",
+      "width": 2592,
+      "height": 1660,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "basename"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 7/3.png",
+      "sizeBytes": 4951117,
+      "sizeMB": "4.722",
+      "format": "png",
+      "width": 2586,
+      "height": 1664,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "basename"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 2/3.png",
+      "sizeBytes": 4929227,
+      "sizeMB": "4.701",
+      "format": "png",
+      "width": 2016,
+      "height": 2112,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 4/1.png",
+      "sizeBytes": 4746696,
+      "sizeMB": "4.527",
+      "format": "png",
+      "width": 2112,
+      "height": 2048,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 4/4.png",
+      "sizeBytes": 4443659,
+      "sizeMB": "4.238",
+      "format": "png",
+      "width": 2340,
+      "height": 1824,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 8/3.png",
+      "sizeBytes": 4225948,
+      "sizeMB": "4.030",
+      "format": "png",
+      "width": 1900,
+      "height": 2179,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 4/3.png",
+      "sizeBytes": 3998814,
+      "sizeMB": "3.814",
+      "format": "png",
+      "width": 1948,
+      "height": 1952,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "JOURNE 3/3.png",
+      "sizeBytes": 3991013,
+      "sizeMB": "3.806",
+      "format": "png",
+      "width": 1773,
+      "height": 2102,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 1/2.png",
+      "sizeBytes": 3776995,
+      "sizeMB": "3.602",
+      "format": "png",
+      "width": 2048,
+      "height": 2048,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 1/1.png",
+      "sizeBytes": 3769776,
+      "sizeMB": "3.595",
+      "format": "png",
+      "width": 2048,
+      "height": 2048,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 1/5.png",
+      "sizeBytes": 3746944,
+      "sizeMB": "3.573",
+      "format": "png",
+      "width": 2048,
+      "height": 2048,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 1/4.png",
+      "sizeBytes": 3743052,
+      "sizeMB": "3.570",
+      "format": "png",
+      "width": 2048,
+      "height": 2048,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 1/6.png",
+      "sizeBytes": 3609450,
+      "sizeMB": "3.442",
+      "format": "png",
+      "width": 2048,
+      "height": 2048,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 1/3.png",
+      "sizeBytes": 3285400,
+      "sizeMB": "3.133",
+      "format": "png",
+      "width": 2048,
+      "height": 2048,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 6/1.png",
+      "sizeBytes": 3223097,
+      "sizeMB": "3.074",
+      "format": "png",
+      "width": 2031,
+      "height": 1410,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 8/last popup.png",
+      "sizeBytes": 3204552,
+      "sizeMB": "3.056",
+      "format": "png",
+      "width": 2624,
+      "height": 1632,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 6/end pop up.png",
+      "sizeBytes": 3036196,
+      "sizeMB": "2.896",
+      "format": "png",
+      "width": 2624,
+      "height": 1632,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 6/end popup.png",
+      "sizeBytes": 3036196,
+      "sizeMB": "2.896",
+      "format": "png",
+      "width": 2624,
+      "height": 1632,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 6/popup end.png",
+      "sizeBytes": 3036196,
+      "sizeMB": "2.896",
+      "format": "png",
+      "width": 2624,
+      "height": 1632,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "contiuer/excellent.png",
+      "sizeBytes": 3032002,
+      "sizeMB": "2.892",
+      "format": "png",
+      "width": 2304,
+      "height": 1047,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 5/end pop up.png",
+      "sizeBytes": 2977907,
+      "sizeMB": "2.840",
+      "format": "png",
+      "width": 2528,
+      "height": 1684,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 5/end popup.png",
+      "sizeBytes": 2977907,
+      "sizeMB": "2.840",
+      "format": "png",
+      "width": 2528,
+      "height": 1684,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "contiuer/parfait.png",
+      "sizeBytes": 2918917,
+      "sizeMB": "2.784",
+      "format": "png",
+      "width": 2304,
+      "height": 1005,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 1/skip botten.png",
+      "sizeBytes": 2899098,
+      "sizeMB": "2.765",
+      "format": "png",
+      "width": 2400,
+      "height": 1792,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 2/end journe 2.png",
+      "sizeBytes": 2854971,
+      "sizeMB": "2.723",
+      "format": "png",
+      "width": 2528,
+      "height": 1686,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 1/home botten.png",
+      "sizeBytes": 2841799,
+      "sizeMB": "2.710",
+      "format": "png",
+      "width": 2400,
+      "height": 1792,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "contiuer/bien joue.png",
+      "sizeBytes": 2826522,
+      "sizeMB": "2.696",
+      "format": "png",
+      "width": 2304,
+      "height": 1017,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 4/end pop up.png",
+      "sizeBytes": 2814463,
+      "sizeMB": "2.684",
+      "format": "png",
+      "width": 2528,
+      "height": 1684,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "JOURNE 3/end journe 3.png",
+      "sizeBytes": 2810453,
+      "sizeMB": "2.680",
+      "format": "png",
+      "width": 2528,
+      "height": 1684,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 1/back botten.png",
+      "sizeBytes": 2783780,
+      "sizeMB": "2.655",
+      "format": "png",
+      "width": 2400,
+      "height": 1792,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "contiuer/super.png",
+      "sizeBytes": 2722985,
+      "sizeMB": "2.597",
+      "format": "png",
+      "width": 2304,
+      "height": 1065,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 8/BACKGROUND.png",
+      "sizeBytes": 2710484,
+      "sizeMB": "2.585",
+      "format": "png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": false,
+      "channels": 3,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 7/background.png",
+      "sizeBytes": 2639680,
+      "sizeMB": "2.517",
+      "format": "png",
+      "width": 1672,
+      "height": 941,
+      "hasAlpha": false,
+      "channels": 3,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "evalution/back ground.png",
+      "sizeBytes": 2235940,
+      "sizeMB": "2.132",
+      "format": "png",
+      "width": 1478,
+      "height": 1064,
+      "hasAlpha": false,
+      "channels": 3,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 7/1.png",
+      "sizeBytes": 2234431,
+      "sizeMB": "2.131",
+      "format": "png",
+      "width": 1565,
+      "height": 1005,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 6/5.png",
+      "sizeBytes": 2212912,
+      "sizeMB": "2.110",
+      "format": "png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 8/FIRST POPUP.png",
+      "sizeBytes": 2171774,
+      "sizeMB": "2.071",
+      "format": "png",
+      "width": 1535,
+      "height": 1024,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 1/backbround of journe 1.png",
+      "sizeBytes": 2128890,
+      "sizeMB": "2.030",
+      "format": "png",
+      "width": 1678,
+      "height": 937,
+      "hasAlpha": false,
+      "channels": 3,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 2/4.png",
+      "sizeBytes": 2124585,
+      "sizeMB": "2.026",
+      "format": "png",
+      "width": 1679,
+      "height": 937,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "evalution/pop up evalution.png",
+      "sizeBytes": 2061075,
+      "sizeMB": "1.966",
+      "format": "png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "evalution/id.png",
+      "sizeBytes": 2018558,
+      "sizeMB": "1.925",
+      "format": "png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 8/4.png",
+      "sizeBytes": 2005150,
+      "sizeMB": "1.912",
+      "format": "png",
+      "width": 1675,
+      "height": 939,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 7/first pop up.png",
+      "sizeBytes": 2003857,
+      "sizeMB": "1.911",
+      "format": "png",
+      "width": 1535,
+      "height": 1024,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 6/6.png",
+      "sizeBytes": 1994908,
+      "sizeMB": "1.902",
+      "format": "png",
+      "width": 1565,
+      "height": 1005,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 4/5.png",
+      "sizeBytes": 1939989,
+      "sizeMB": "1.850",
+      "format": "png",
+      "width": 1611,
+      "height": 976,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 6/first popup.png",
+      "sizeBytes": 1917988,
+      "sizeMB": "1.829",
+      "format": "png",
+      "width": 1535,
+      "height": 1024,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 6/7.png",
+      "sizeBytes": 1909007,
+      "sizeMB": "1.821",
+      "format": "png",
+      "width": 1624,
+      "height": 969,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 5/first popup.png",
+      "sizeBytes": 1864654,
+      "sizeMB": "1.778",
+      "format": "png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "evalution/tet dachbored.png",
+      "sizeBytes": 1840907,
+      "sizeMB": "1.756",
+      "format": "png",
+      "width": 1670,
+      "height": 941,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 4/popup of journe 4.png",
+      "sizeBytes": 1741501,
+      "sizeMB": "1.661",
+      "format": "png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 2/pop for journe 2.png",
+      "sizeBytes": 1715905,
+      "sizeMB": "1.636",
+      "format": "png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "JOURNE 3/pop for jouene 3.png",
+      "sizeBytes": 1613293,
+      "sizeMB": "1.539",
+      "format": "png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "evalution/pop up end.png",
+      "sizeBytes": 1521727,
+      "sizeMB": "1.451",
+      "format": "png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "evalution/espace.png",
+      "sizeBytes": 1321073,
+      "sizeMB": "1.260",
+      "format": "png",
+      "width": 1672,
+      "height": 941,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "exercice pop up.png",
+      "sizeBytes": 1288782,
+      "sizeMB": "1.229",
+      "format": "png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 1/first pop up",
+      "sizeBytes": 1250586,
+      "sizeMB": "1.193",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 1/first pop up.png",
+      "sizeBytes": 1250586,
+      "sizeMB": "1.193",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 1/first pop up.webp",
+      "sizeBytes": 1250586,
+      "sizeMB": "1.193",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [],
+      "refCount": 0
+    },
+    {
+      "path": "logofr.png",
+      "sizeBytes": 1005828,
+      "sizeMB": "0.959",
+      "format": "png",
+      "width": 1714,
+      "height": 608,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 8/5.png",
+      "sizeBytes": 948349,
+      "sizeMB": "0.904",
+      "format": "png",
+      "width": 1024,
+      "height": 540,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 4/2.png",
+      "sizeBytes": 937733,
+      "sizeMB": "0.894",
+      "format": "png",
+      "width": 1024,
+      "height": 865,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "JOURNE 3/4.png",
+      "sizeBytes": 903043,
+      "sizeMB": "0.861",
+      "format": "png",
+      "width": 1024,
+      "height": 765,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 1/end journe 1.png",
+      "sizeBytes": 583379,
+      "sizeMB": "0.556",
+      "format": "png",
+      "width": 1024,
+      "height": 683,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 5/4.png",
+      "sizeBytes": 566650,
+      "sizeMB": "0.540",
+      "format": "png",
+      "width": 735,
+      "height": 485,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 7/end pop up.png",
+      "sizeBytes": 557528,
+      "sizeMB": "0.532",
+      "format": "png",
+      "width": 1024,
+      "height": 637,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 5/5.png",
+      "sizeBytes": 508404,
+      "sizeMB": "0.485",
+      "format": "png",
+      "width": 800,
+      "height": 474,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 5/1.png",
+      "sizeBytes": 446930,
+      "sizeMB": "0.426",
+      "format": "png",
+      "width": 514,
+      "height": 512,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 1/valider.png",
+      "sizeBytes": 370456,
+      "sizeMB": "0.353",
+      "format": "png",
+      "width": 918,
+      "height": 417,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 1/continuer.png",
+      "sizeBytes": 362419,
+      "sizeMB": "0.346",
+      "format": "png",
+      "width": 901,
+      "height": 385,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "journe 5/3.png",
+      "sizeBytes": 352478,
+      "sizeMB": "0.336",
+      "format": "png",
+      "width": 496,
+      "height": 527,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "fanke buttom enter 2.png",
+      "sizeBytes": 311614,
+      "sizeMB": "0.297",
+      "format": "png",
+      "width": 408,
+      "height": 542,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "fnake top right.png",
+      "sizeBytes": 256978,
+      "sizeMB": "0.245",
+      "format": "png",
+      "width": 509,
+      "height": 426,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "fanke buttom right.png",
+      "sizeBytes": 229382,
+      "sizeMB": "0.219",
+      "format": "png",
+      "width": 521,
+      "height": 402,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "clean_clouds/cloud_c_21_x0_y381.png",
+      "sizeBytes": 223191,
+      "sizeMB": "0.213",
+      "format": "png",
+      "width": 486,
+      "height": 462,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "cloud_pure_bl.png",
+      "sizeBytes": 223191,
+      "sizeMB": "0.213",
+      "format": "png",
+      "width": 486,
+      "height": 462,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "fnake buttom left.png",
+      "sizeBytes": 212304,
+      "sizeMB": "0.202",
+      "format": "png",
+      "width": 515,
+      "height": 512,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "buttom center.png",
+      "sizeBytes": 210157,
+      "sizeMB": "0.200",
+      "format": "png",
+      "width": 487,
+      "height": 510,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "clean_clouds/cloud_c_2_x463_y0.png",
+      "sizeBytes": 158256,
+      "sizeMB": "0.151",
+      "format": "png",
+      "width": 801,
+      "height": 255,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "cloud_pure_tr.png",
+      "sizeBytes": 158256,
+      "sizeMB": "0.151",
+      "format": "png",
+      "width": 801,
+      "height": 255,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "clean_clouds/cloud_top_fluffy.png",
+      "sizeBytes": 156847,
+      "sizeMB": "0.150",
+      "format": "png",
+      "width": 608,
+      "height": 235,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "clean_clouds/cloud_c_32_x360_y608.png",
+      "sizeBytes": 156423,
+      "sizeMB": "0.149",
+      "format": "png",
+      "width": 608,
+      "height": 235,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "clean_clouds/cloud_c_1_x0_y0.png",
+      "sizeBytes": 115581,
+      "sizeMB": "0.110",
+      "format": "png",
+      "width": 504,
+      "height": 258,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [],
+      "refCount": 0
+    },
+    {
+      "path": "cloud_pure_tl.png",
+      "sizeBytes": 115581,
+      "sizeMB": "0.110",
+      "format": "png",
+      "width": 504,
+      "height": 258,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "clean_clouds/cloud_c_28_x972_y460.png",
+      "sizeBytes": 114099,
+      "sizeMB": "0.109",
+      "format": "png",
+      "width": 292,
+      "height": 383,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [],
+      "refCount": 0
+    },
+    {
+      "path": "cloud_pure_br.png",
+      "sizeBytes": 114099,
+      "sizeMB": "0.109",
+      "format": "png",
+      "width": 292,
+      "height": 383,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "map_assets_full/Layer_1.png",
+      "sizeBytes": 76006,
+      "sizeMB": "0.072",
+      "format": "png",
+      "width": 3436,
+      "height": 1832,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [],
+      "refCount": 0
+    },
+    {
+      "path": "map_assets_full/Layer_5.png",
+      "sizeBytes": 70703,
+      "sizeMB": "0.067",
+      "format": "png",
+      "width": 3436,
+      "height": 1832,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [],
+      "refCount": 0
+    },
+    {
+      "path": "map_assets_full/Layer_9.png",
+      "sizeBytes": 69529,
+      "sizeMB": "0.066",
+      "format": "png",
+      "width": 3436,
+      "height": 1832,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [],
+      "refCount": 0
+    },
+    {
+      "path": "map_assets_full/Layer_11.png",
+      "sizeBytes": 65786,
+      "sizeMB": "0.063",
+      "format": "png",
+      "width": 3436,
+      "height": 1832,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [],
+      "refCount": 0
+    },
+    {
+      "path": "map_assets_full/Layer_7.png",
+      "sizeBytes": 62881,
+      "sizeMB": "0.060",
+      "format": "png",
+      "width": 3436,
+      "height": 1832,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [],
+      "refCount": 0
+    },
+    {
+      "path": "map_assets_full/Layer_4.png",
+      "sizeBytes": 61150,
+      "sizeMB": "0.058",
+      "format": "png",
+      "width": 3436,
+      "height": 1832,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [],
+      "refCount": 0
+    },
+    {
+      "path": "map_assets_full/Layer_3.png",
+      "sizeBytes": 61043,
+      "sizeMB": "0.058",
+      "format": "png",
+      "width": 3436,
+      "height": 1832,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [],
+      "refCount": 0
+    },
+    {
+      "path": "evalution/botten tet.png",
+      "sizeBytes": 59306,
+      "sizeMB": "0.057",
+      "format": "png",
+      "width": 263,
+      "height": 284,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [
+        {
+          "file": "index.html",
+          "matchType": "exact_rel_path"
+        }
+      ],
+      "refCount": 1
+    },
+    {
+      "path": "clean_clouds/cloud_c_15_x354_y229.png",
+      "sizeBytes": 58374,
+      "sizeMB": "0.056",
+      "format": "png",
+      "width": 412,
+      "height": 148,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [],
+      "refCount": 0
+    },
+    {
+      "path": "map_assets_full/Layer_13.png",
+      "sizeBytes": 56661,
+      "sizeMB": "0.054",
+      "format": "png",
+      "width": 3436,
+      "height": 1832,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [],
+      "refCount": 0
+    },
+    {
+      "path": "map_assets_full/Layer_8.png",
+      "sizeBytes": 54308,
+      "sizeMB": "0.052",
+      "format": "png",
+      "width": 3436,
+      "height": 1832,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [],
+      "refCount": 0
+    },
+    {
+      "path": "map_assets_full/Layer_2.png",
+      "sizeBytes": 53935,
+      "sizeMB": "0.051",
+      "format": "png",
+      "width": 3436,
+      "height": 1832,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [],
+      "refCount": 0
+    },
+    {
+      "path": "map_assets_full/Layer_6.png",
+      "sizeBytes": 52648,
+      "sizeMB": "0.050",
+      "format": "png",
+      "width": 3436,
+      "height": 1832,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [],
+      "refCount": 0
+    },
+    {
+      "path": "clean_clouds/cloud_c_22_x672_y386.png",
+      "sizeBytes": 50610,
+      "sizeMB": "0.048",
+      "format": "png",
+      "width": 367,
+      "height": 178,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [],
+      "refCount": 0
+    },
+    {
+      "path": "map_assets_full/Layer_12.png",
+      "sizeBytes": 43090,
+      "sizeMB": "0.041",
+      "format": "png",
+      "width": 3436,
+      "height": 1832,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [],
+      "refCount": 0
+    },
+    {
+      "path": "clean_clouds/cloud_c_19_x945_y287.png",
+      "sizeBytes": 40791,
+      "sizeMB": "0.039",
+      "format": "png",
+      "width": 298,
+      "height": 139,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [],
+      "refCount": 0
+    },
+    {
+      "path": "map_assets_full/Layer_10.png",
+      "sizeBytes": 35116,
+      "sizeMB": "0.033",
+      "format": "png",
+      "width": 3436,
+      "height": 1832,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [],
+      "refCount": 0
+    },
+    {
+      "path": "clean_clouds/cloud_c_16_x42_y243.png",
+      "sizeBytes": 32032,
+      "sizeMB": "0.031",
+      "format": "png",
+      "width": 265,
+      "height": 171,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [],
+      "refCount": 0
+    },
+    {
+      "path": "clean_clouds/cloud_c_18_x790_y262.png",
+      "sizeBytes": 12529,
+      "sizeMB": "0.012",
+      "format": "png",
+      "width": 244,
+      "height": 78,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [],
+      "refCount": 0
+    },
+    {
+      "path": "clean_clouds/cloud_c_27_x449_y436.png",
+      "sizeBytes": 11978,
+      "sizeMB": "0.011",
+      "format": "png",
+      "width": 185,
+      "height": 76,
+      "hasAlpha": true,
+      "channels": 4,
+      "space": "srgb",
+      "references": [],
+      "refCount": 0
+    }
+  ]
+}

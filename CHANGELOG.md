@@ -4,6 +4,33 @@ All notable changes and optimization milestones for the **Royaume des Connaissan
 
 ---
 
+## [1.1.0] — 2026-11-20 — Automated Image Optimization & High-Quality WebP Delivery
+
+### Summary
+Executed an end-to-end automated image optimization pipeline using Sharp, reducing total project image storage from **325.32 MB** to **22.27 MB** (**303.04 MB saved, -93.2% size reduction**) without deleting or modifying any original image files. The home screen payload was reduced from ~17.5 MB to under 1 MB (-95.5%).
+
+### Key Improvements
+1. **Automated Batch Conversion:**
+   - 127 total image assets converted to high-quality WebP.
+   - Images with alpha transparency encoded with `quality: 88, alphaQuality: 95, effort: 6` preserving crisp borders, zero halos, and identical colors.
+   - Opaque backgrounds encoded with `quality: 85, effort: 6`.
+   - Proportional resizing applied only to oversized assets (>2560px) via Lanczos3 kernel, eliminating raw camera/AI bloat while preserving 4K/retina sharpness.
+2. **Responsive Variant Generation:**
+   - Main map background (`background_upscayl_2x_ultrasharp-4x`) converted into 2560w, 1920w, and 1080w WebP variants.
+   - Connected via `srcset` and `sizes="100vw"` on `#initial-bg` and `#bg-map`.
+3. **Robust Fallback & In-Memory Registry:**
+   - Inline `window.OPTIMIZED_ASSET_MAP` and helper functions `window.getOptimizedAsset(src)` and `window.setOptimizedImgSrc(el, src, fallback)`.
+   - All 100% of original PNG images preserved in their original folders as permanent fallbacks.
+   - Tested in Chrome CDP: broken WebP requests gracefully and instantly recover using original PNGs with zero UI disruption.
+   - String comparisons in exercise logic (`activity.src === '...'`) kept 100% intact and functional.
+4. **Performance & Loading Optimizations:**
+   - Preloaded critical above-the-fold assets in `<head>` (`background_upscayl_2x_ultrasharp-4x.webp` and `logofr.webp`).
+   - Added `loading="lazy"` and `decoding="async"` across offscreen images and clouds.
+5. **Automated Verification:**
+   - Verified via headless Chrome CDP with 0 network loading errors, 0 console errors, and successful visual inspections across Welcome, Map, Journey 1, Journey 7, and Journey 8.
+
+---
+
 ## [1.0.0] — 2026-11-17 — Clean Vercel-Ready Release
 
 ### Summary

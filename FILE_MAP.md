@@ -18,7 +18,9 @@ This document provides a searchable file index and component directory mapping f
 | `AI_PROJECT_GUIDE.md` | ~14 KB | Primary reference guide for AI coding agents. | Architectural rules, modification guidelines, verification commands | Future AI agents |
 | `ARCHITECTURE.md` | ~13 KB | System architecture overview and data flow diagrams. | Architecture diagram, component relationships, state machines | Technical teams |
 | `DEPLOYMENT.md` | ~8 KB | Step-by-step Vercel deployment and Firebase domain setup guide. | Deployment commands, pre-flight checklist, domain authorization | DevOps / Developers |
-| `CHANGELOG.md` | ~5 KB | Record of project cleanup, optimizations, and preserved features. | Migration history, deleted clutter, performance gains | All contributors |
+| `CHANGELOG.md` | ~6 KB | Record of project cleanup, optimizations, and preserved features. | Migration history, deleted clutter, performance gains | All contributors |
+| `optimized/` | ~22.3 MB | Mirror directory of high-performance WebP images with alpha channels and responsive variants. | `asset_manifest.json`, responsive backgrounds, 127 WebP assets | Loaded via `window.setOptimizedImgSrc` |
+| `docs/IMAGE_OPTIMIZATION_REPORT.md` | ~6 KB | Technical report of automated image optimization. | Inventory, compression settings, top 20 savings, visual validation | Developers / Audits |
 
 ---
 

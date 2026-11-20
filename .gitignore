@@ -21,6 +21,7 @@ scratch/
 
 # Temporary Chrome profiles
 .chrome_*/
+.tmp*/
 
 # Logs
 *.log
