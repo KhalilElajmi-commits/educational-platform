@@ -12,7 +12,6 @@ This document provides a searchable file index and component directory mapping f
 | `ambient_life.js` | 19.6 KB | Ambient canvas background animation system (birds, butterflies, desert particles). | `AmbientLife` engine, particle emitters | `<script src="ambient_life.js">` in `index.html` |
 | `sound_system.js` | 17.1 KB | Global sound engine using Web Audio API synthesis and background music player. | `SoundSystem.startMusic()`, `SoundSystem.playClick()`, `SoundSystem.playSparkle()`, ducking | `<script src="sound_system.js">` in `index.html` |
 | `dev_overlay.js` | 42.0 KB | Developer debugging overlay (activated via 'X' key). Allows jumping between journeys and toggling states. | `DevOverlay.toggle()`, level unlocker, rubric inspector | `<script src="dev_overlay.js">` in `index.html` |
-| `vercel.json` | ~200 B | Vercel deployment configuration for static hosting. | Route rewrite rules, static build configuration | Vercel CLI & Git integration |
 | `package.json` | ~400 B | Project metadata and dev scripts (`npm run dev` using `serve`). | `dev`, `preview`, `build` scripts | npm / Node.js |
 | `.env.example` | ~600 B | Environment variable documentation template. | Firebase App Check, Gemini domain notes | Future developers / AI agents |
 | `.gitignore` | ~300 B | Git ignore rules tailored for production deployment. | Ignores OS files, IDE configs, temp files | Git repository |

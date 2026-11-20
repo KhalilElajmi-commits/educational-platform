@@ -63,7 +63,7 @@ All core engines load without syntax errors or unhandled script crashes.
 - [x] `CHANGELOG.md` (Root & `docs/`): Full migration and cleanup history.
 
 ### E. Vercel Configuration
-- [x] `vercel.json` validated: static `@vercel/static` build configuration with clean URL routing.
+- [x] Vercel native zero-config deployment: unnecessary custom `vercel.json` removed so 100% of static files & directories deploy without restriction.
 - [x] `package.json` created with local preview script (`npx serve . -p 3000`).
 - [x] `.gitignore` configured to exclude OS files, IDE configs, logs, and user documents.
 - [x] `.env.example` created with Firebase and App Check documentation.

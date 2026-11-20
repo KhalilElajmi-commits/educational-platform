@@ -47,7 +47,6 @@ educational-platform/
 ├── ambient_life.js         # Background animation (birds, insects, ambient life on canvas)
 ├── sound_system.js         # Global sound system (background music, effects)
 ├── dev_overlay.js          # Development overlay (Dev mode tools) — keep but can disable
-├── vercel.json             # Vercel deployment configuration
 ├── package.json            # Dev dependencies (serve for local preview)
 ├── .env.example            # Environment variable documentation template
 ├── audio/                  # Background music and sound effects
@@ -189,9 +188,9 @@ window.RECAPTCHA_ENTERPRISE_SITE_KEY = '6LdAWhguAAAAANNbg2iJtYw636xDuZT2nB3l9q5E
 window.GeminiAIService = { model: "gemini-3.5-flash-lite", ... }
 ```
 
-### Vercel Configuration (`vercel.json`)
-- Static hosting, no build command
-- Root serves `index.html` for all routes
+### Vercel Deployment (Zero Configuration)
+- Native static hosting with zero build step required.
+- All repository files, images, and audio assets are deployed automatically.
 
 ### Local Development
 ```bash

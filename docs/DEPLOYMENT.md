@@ -29,32 +29,12 @@ The platform is a **pure static Single-Page Application (SPA)**:
 
 ---
 
-## 3. Vercel Configuration (`vercel.json`)
+## 3. Vercel Zero-Configuration Static Deployment
 
-The project contains a pre-configured `vercel.json`:
-
-```json
-{
-  "version": 2,
-  "builds": [
-    {
-      "src": "index.html",
-      "use": "@vercel/static"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/$1"
-    }
-  ]
-}
-```
-
-This configuration ensures:
-- Direct static file serving through Vercel's CDN.
-- Clean routing with zero build overhead.
-- Immediate sub-second deployments.
+The project uses Vercel's native zero-configuration static file deployment:
+- No `vercel.json` is required.
+- Vercel automatically deploys all repository files (HTML, JavaScript, CSS, images, and audio directories) directly to its Edge Network.
+- Eliminates the legacy `@vercel/static` single-file restriction, ensuring 100% of static assets in all subdirectories are served seamlessly.
 
 ---
 
